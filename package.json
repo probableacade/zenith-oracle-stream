@@ -1,0 +1,26 @@
+{
+  "name": "zenith-oracle-stream",
+  "version": "1.0.0",
+  "description": "Decentralized Real-Time Oracle Aggregator & Telemetry Data Feed Protocol",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "web3",
+    "oracle",
+    "data-feed",
+    "defi",
+    "hardhat"
+  ],
+  "author": "probableacade",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
